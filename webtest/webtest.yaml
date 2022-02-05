@@ -18,7 +18,7 @@ spec:
         app: webtest
     spec:
       containers:
-      - image: httpd
+      - image: mmumshad/simple-webapp-color
         name: httpd
         resources: {}
 status: {}
